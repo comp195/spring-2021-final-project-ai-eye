@@ -1,2 +1,27 @@
-"# spring-2021-final-project-ai-eye" 
-AI Eye
+Project Title: AI Eye
+Team Members: Iris Huang, Angela Ayala, and Haya Syed
+Object Recognition Using Deep Learning and YOLO v4
+
+Project Description:
+  AI Eye is a website that provides a perspective on how autonomous vehicles "see" the world and navigate safely. The website consists of a brief introduction to Google Co-lab that allows us to have access to their virtual machines with applicable hardware we need and introduce the YOLOv4 algorithm, darknet natural network framework and other imaging processing algorithms and steps we take to improve the accuracy of our model. 
+
+  For this project, we will develop a website gathering the algorithm and model implemented. Users may see what output would be shown, for example image. The website will consist of three different sections. The first section would be called “Implementing the Algorithm,” which is where we would talk about how our model was trained and what steps were taken. It would walk you through to show you what the output would be for an image. The second section would be “About AI EYE” which give a brief introduction about our ideas and goals for what the interface should accomplish. The third section would be the “Project Developers” listing our names. 
+  
+Project Components:
+1) Training the model
+2) Gathering datasets and trainig / cleaning them
+3) Special Vehicle Object Detection
+    - Ambulance, Police Car, Fire Truck, Police Motorcycle
+4) Object Detection at Night
+5) Image Denoising with OpenCV
+6) Developing the website
+    - designing it
+    - front page
+    - About us
+    - implementing the algorithm
+    - access to the model
+7) Project Poster
+
+Special Notes:
+Google Colab will be used
+Training datasets requires time
