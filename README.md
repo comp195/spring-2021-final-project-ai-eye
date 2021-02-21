@@ -1,6 +1,10 @@
 Project Title: AI Eye
-Team Members: Iris Huang, Angela Ayala, and Haya Syed
-Object Recognition Using Deep Learning and YOLO v4
+Team Members: 
+Iris Huang - r_huang8@u.pacific.edu
+Angela Ayala - a_ayala7@u.pacific.edu
+Haya Syed - h_syed@u.pacific.edu
+
+Project: Object Recognition Using Deep Learning and YOLO v4
 
 Project Description:
   AI Eye is a website that provides a perspective on how autonomous vehicles "see" the world and navigate safely. The website consists of a brief introduction to Google Co-lab that allows us to have access to their virtual machines with applicable hardware we need and introduce the YOLOv4 algorithm, darknet natural network framework and other imaging processing algorithms and steps we take to improve the accuracy of our model. 
