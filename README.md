@@ -34,5 +34,5 @@ Project Components:
 7) Project Poster
 
 Special Notes:
-Google Colab will be used
+Google Co-lab will be used
 Training datasets requires time
