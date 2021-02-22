@@ -26,11 +26,10 @@ Project Components:
 4) Object Detection at Night
 5) Image Denoising with OpenCV
 6) Developing the website
-    - designing it
-    - front page
+    - Design
+    - Front page
     - About us
-    - implementing the algorithm
-    - access to the model
+    - Access to the model
 7) Project Poster
 
 Special Notes:
