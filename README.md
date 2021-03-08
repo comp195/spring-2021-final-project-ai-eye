@@ -32,6 +32,14 @@ Project Components:
     - Access to the model
 7) Project Poster
 
+Test Plan:
+After each training section, test the model by running a unlabeled image
+1.  Test 1: March 15th - March 19th
+2.  Test 2: March 29th - Apirl 2nd
+3.  Test 3: Apirl 12th - Apirl 16th
+
 Special Notes:
 Google Co-lab will be used
 Training datasets requires time
+
+
